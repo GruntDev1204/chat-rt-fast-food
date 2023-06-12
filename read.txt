@@ -1,0 +1,2 @@
+// mở folder <nodejs> và gõ "node server.js" để chạy express
+//  bên ngoài gõ "npm start" để chạy ứng dụng react
